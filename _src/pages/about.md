@@ -25,6 +25,29 @@ description: "About April Kidd — education, experience, projects, and competit
 
 <div class="entry">
   <div class="entry-header">
+    <span class="entry-title">Software Engineer</span>
+    <span class="entry-date">Jul 2026–Present</span>
+  </div>
+  <div class="entry-org">Rise</div>
+  <ul>
+    <li>Incoming software engineer focusing on backend development in NestJS and AI engineering.</li>
+  </ul>
+</div>
+
+<div class="entry">
+  <div class="entry-header">
+    <span class="entry-title">Teacher Aide / Technical Officer</span>
+    <span class="entry-date">May 2026–Present</span>
+  </div>
+  <div class="entry-org">Tamborine Mountain State High School</div>
+  <ul>
+    <li>Support teachers in class, helping students work through learning tasks and explaining concepts step by step to keep them engaged.</li>
+    <li>Provide technology support for staff, classrooms, and school operations, troubleshooting issues to keep lessons and day-to-day work moving.</li>
+  </ul>
+</div>
+
+<div class="entry">
+  <div class="entry-header">
     <span class="entry-title">Software Developer Intern</span>
     <span class="entry-date">Sep 2025–Apr 2026</span>
   </div>
@@ -51,24 +74,24 @@ description: "About April Kidd — education, experience, projects, and competit
 
 <div class="entry">
   <div class="entry-header">
-    <span class="entry-title">Future Focus Technology Program</span>
-    <span class="entry-date">Sep 2025–Oct 2025</span>
-  </div>
-  <div class="entry-org">Optiver</div>
-  <ul>
-    <li>Selected for a competitive program focused on high-performance computing and low-latency algorithmic systems.</li>
-  </ul>
-</div>
-
-<div class="entry">
-  <div class="entry-header">
     <span class="entry-title">Secretary</span>
     <span class="entry-date">Oct 2025–Present</span>
   </div>
   <div class="entry-org">UQ Computing Society</div>
   <ul>
-    <li>Previously <em>General Executive Committee</em> (Aug--Oct 2025). Managed executive operations and liaised with tech industry sponsors.</li>
+    <li>Previously <em>General Executive Committee</em> (Aug--Oct 2025). Managed executive operations and liaised with industry sponsors to fund technical workshops and student competitions.</li>
+    <li>Ran flagship events end to end, including competitions with 180+ participants — coordinating venue, catering, sponsor logistics, and run-of-day.</li>
     <li>Drove outreach expanding the community by 400+ Discord members and ~2,000 social media followers.</li>
+  </ul>
+</div>
+
+<div class="entry">
+  <div class="entry-header">
+    <span class="entry-title">Industry Insight Programs</span>
+  </div>
+  <ul>
+    <li><em>SIG Discovery Program</em> (Trading Stream) &middot; Sydney, NSW &middot; Sep 2026</li>
+    <li><em>Optiver Future Focus</em> (Technology Stream) &middot; Sydney, NSW &middot; Sep 2025</li>
   </ul>
 </div>
 
@@ -82,7 +105,7 @@ description: "About April Kidd — education, experience, projects, and competit
     <span class="entry-date">Apr 2026–Present</span>
   </div>
   <div class="entry-org">inferenc.me</div>
-  <p class="entry-desc">A quantitative estimation competition with original problems in market microstructure, parimutuel betting, and derivatives pricing. 250+ participants across scored rounds. Includes a PvP market-making scorer with price-priority fill mechanics and a shared-path Monte Carlo evaluator for options portfolio allocation.</p>
+  <p class="entry-desc">A quantitative estimation competition with original problems in market microstructure, parimutuel betting, and derivatives pricing. 300+ participants across scored rounds. Includes a PvP market-making scorer with price-priority fill mechanics and a shared-path Monte Carlo evaluator for options portfolio allocation.</p>
 </div>
 
 <div class="entry">
@@ -117,7 +140,7 @@ description: "About April Kidd — education, experience, projects, and competit
 ## Technical Skills
 
 <div class="skills">
-  <div><span class="skill-label">Languages</span> Python, Java, R, SQL</div>
-  <div><span class="skill-label">Libraries</span> pandas, NumPy, PyTorch, scikit-learn, statsmodels</div>
-  <div><span class="skill-label">Tools</span> Git, Linux/Unix, Docker, pytest</div>
+  <div><span class="skill-label">Languages</span> Python, Java, R, SQL, TypeScript</div>
+  <div><span class="skill-label">Libraries</span> NestJS, pandas, NumPy, PyTorch, scikit-learn, Matplotlib, statsmodels</div>
+  <div><span class="skill-label">Tools</span> Git, Linux/Unix, Docker, JUnit, pytest, GitHub Actions, CI/CD</div>
 </div>
